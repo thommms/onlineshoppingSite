@@ -1,2 +1,2 @@
 # onlineshoppingSite
-An e-commerce site using spring boot and js
+An e-commerce site using spring boot
